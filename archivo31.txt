@@ -1,4 +1,9 @@
 Linea de texto
 otra linea de texto
+<<<<<<< HEAD
 Más lineas de texto pero en master
 Incluso más lineas de texto pero en master
+=======
+Más lineas de texto
+Incluso más lineas de texto
+>>>>>>> actividad3
